@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>QuantumMed — Quantum Computing for Drug Discovery</title>
+<meta name="description" content="Physics project exploring quantum computing for drug discovery with VQE (UCCSD + COBYLA) on the water molecule.">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="aurora" aria-hidden="true"><i></i><i></i><i></i></div>
+<header class="top">
+  <a class="brand" href="#home">Quantum<b>Med</b></a>
+  <button id="menuBtn" aria-label="Menu" aria-expanded="false" aria-controls="nav">☰</button>
+  <nav id="nav">
+    <a href="#home">Home</a><a href="#water">Water</a><a href="#input">Input</a>
+    <a href="#run">① VQE Run</a><a href="#graph">② Graph</a><a href="#results">③ Results</a><a href="#method">Method</a>
+  </nav>
+</header>
+
+<main>
+<!-- HOME -->
+<section id="home" class="view">
+  <div class="hero">
+    <div class="orbit" aria-hidden="true"><i></i><i></i><i></i><u></u></div>
+    <span class="pill">Physics project · VQE · H₂O</span>
+    <h1>Quantum computing for <span class="grad">drug discovery</span></h1>
+    <p class="lead">QuantumMed estimates the ground-state energy of the water molecule with the Variational Quantum Eigensolver, using a <b>UCCSD</b> ansatz and the <b>COBYLA</b> optimiser. Watch the run, explore the graph, read the result.</p>
+    <div class="cta"><a class="btn" href="#run">▶ Watch the VQE run</a><a class="btn ghost" href="#water">View the molecule</a><a class="btn ghost" href="#results">Final result</a></div>
+  </div>
+  <h2>Workflow</h2>
+  <ol class="flow">
+    <li style="--c:#22d3ee"><h3>Molecular modelling</h3><p>Define the molecule, geometry, charge, spin and basis set.</p></li>
+    <li style="--c:#a78bfa"><h3>Hamiltonian</h3><p>Build the electronic Hamiltonian and map it to qubit (Pauli) operators.</p></li>
+    <li style="--c:#f472b6"><h3>VQE</h3><p>UCCSD prepares a trial state; COBYLA lowers its energy.</p></li>
+    <li style="--c:#fbbf24"><h3>Data analysis</h3><p>Inspect every iteration and the convergence graph.</p></li>
+    <li style="--c:#34d399"><h3>Results</h3><p>Report the best energy found, and its limits.</p></li>
+  </ol>
+  <h2>Explore</h2>
+  <div class="tiles">
+    <a href="#input" style="--c:#a78bfa"><b>Input</b><span>The water Hamiltonian (Pauli terms)</span></a>
+    <a href="#run" style="--c:#f472b6"><b>① VQE Run</b><span>Iterations and Hartree, live replay</span></a>
+    <a href="#graph" style="--c:#22d3ee"><b>② Graph</b><span>Iterations vs energy (Ha)</span></a>
+    <a href="#results" style="--c:#34d399"><b>③ Results</b><span>Final best energy</span></a>
+  </div>
+</section>
+
+<!-- WATER -->
+<section id="water" class="view">
+  <h2>Water molecule (H₂O)</h2>
+  <p class="lead">Drag to rotate. Scroll or use + and − to zoom. Use fullscreen for presenting.</p>
+  <div class="water-grid">
+    <div id="stage" class="stage">
+      <canvas id="molCanvas" aria-label="Interactive 3D water molecule"></canvas>
+      <div class="hud" id="hud"></div>
+      <div class="tools">
+        <button id="bLabels" aria-pressed="true">Labels</button>
+        <button id="bSpin" aria-pressed="true">Auto-rotate</button>
+        <button id="bZoomIn" aria-label="Zoom in">+</button>
+        <button id="bZoomOut" aria-label="Zoom out">−</button>
+        <button id="bReset">Reset</button>
+        <button id="fsBtn">Fullscreen</button>
+      </div>
+    </div>
+    <aside class="panel">
+      <h3>Geometry</h3>
+      <dl id="geom"></dl>
+      <p class="note" id="geomNote"></p>
+      <h3>Atoms</h3>
+      <ul class="atoms"><li><span class="dot o"></span>Oxygen (O): central atom</li><li><span class="dot h"></span>Hydrogen (H₁, H₂): bonded to O</li></ul>
+    </aside>
+  </div>
+</section>
+
+<!-- INPUT -->
+<section id="input" class="view">
+  <h2>Input: water Hamiltonian</h2>
+  <p class="lead">The qubit Hamiltonian of H₂O, loaded from <code>data/water_hamiltonian.json</code>: a weighted sum of Pauli strings that the circuit measures.</p>
+  <div id="ham"><p class="note">Loading Hamiltonian…</p></div>
+  <h3>Inspect other files</h3>
+  <label id="drop" class="drop" tabindex="0">
+    <input id="fileIn" type="file" multiple accept=".json,.csv,.txt,.md,.pdf,.png,.jpg,.jpeg,.svg,.ipynb">
+    <strong>Choose files or drop them here</strong>
+    <span>JSON and CSV are parsed; images preview. Files stay in your browser and are not uploaded.</span>
+  </label>
+  <div class="row"><button id="clearIn" class="btn ghost">Clear list</button></div>
+  <div id="files" class="files"><p class="empty" id="inEmpty">No extra files added.</p></div>
+</section>
+
+<!-- OUTPUT 1: RUN -->
+<section id="run" class="view">
+  <span class="pill pink">Output ① of 3</span>
+  <h2>UCCSD + COBYLA — VQE run</h2>
+  <p class="lead">VQE is the algorithm; <b>UCCSD</b> is the ansatz (the circuit) and <b>COBYLA</b> is the classical optimiser. Below is a replay of the recorded run, one checkpoint every 10 evaluations.</p>
+  <div class="live">
+    <div><span>Evaluations</span><b id="lvN">0</b></div>
+    <div><span>Current (Ha)</span><b id="lvC" class="c2">—</b></div>
+    <div><span>Best (Ha)</span><b id="lvB" class="c1">—</b></div>
+    <div><span>Time</span><b id="lvT" class="c3">0.0 s</b></div>
+  </div>
+  <div class="bar"><i id="bar"></i></div>
+  <div class="term"><div class="termbar"><s></s><s></s><s></s><span>vqe_uccsd_cobyla.py</span></div><pre id="term" aria-live="polite"></pre></div>
+  <div class="row"><button id="runPlay" class="btn">↻ Replay</button><button id="runSkip" class="btn ghost">Skip to end</button><a class="btn ghost" href="#graph">Next: graph →</a></div>
+  <p class="note">Replay of recorded values from the team's run, shown at a faster pace than the real 350.69 s.</p>
+</section>
+
+<!-- OUTPUT 2: GRAPH -->
+<section id="graph" class="view">
+  <span class="pill">Output ② of 3</span>
+  <h2>Iterations vs energy (Hartree)</h2>
+  <p class="lead">Energy at each 10-evaluation checkpoint. Hover the chart for exact values.</p>
+  <div class="legend"><span><i style="background:#f472b6"></i>Current energy</span><span><i style="background:#22d3ee"></i>Best so far</span>
+    <button id="gZoom" class="btn ghost sm" aria-pressed="false">Zoom to converged region</button></div>
+  <div id="gBox"><canvas id="gchart" aria-label="VQE energy vs iteration chart"></canvas></div>
+  <p class="note" id="gNote"></p>
+  <div class="row"><a class="btn ghost" href="#run">← VQE run</a><a class="btn" href="#results">Final result →</a></div>
+</section>
+
+<!-- OUTPUT 3: RESULTS -->
+<section id="results" class="view">
+  <span class="pill green">Output ③ of 3</span>
+  <h2>Final result</h2>
+  <div class="hero-card"><span>Best electronic energy</span><b id="bigE">—</b><em>Hartree (Ha)</em></div>
+  <div id="resStats" class="stats"></div>
+  <h3>Reading the result</h3>
+  <ul class="lim" id="resNotes"></ul>
+  <div class="row"><a class="btn ghost" href="#graph">← Graph</a><a class="btn ghost" href="#method">Methodology</a></div>
+</section>
+
+<!-- METHOD -->
+<section id="method" class="view">
+  <h2>Methodology and limitations</h2>
+  <div class="cols">
+    <article style="--c:#22d3ee"><h3>Workflow</h3><p>A molecule's geometry and basis set define its electronic Hamiltonian. A fermion-to-qubit mapping (for example Jordan–Wigner) turns it into a weighted sum of Pauli operators that a quantum circuit can measure.</p></article>
+    <article style="--c:#f472b6"><h3>VQE: UCCSD + COBYLA</h3><p>The UCCSD ansatz prepares a trial state from the Hartree–Fock state. The energy expectation value is measured and COBYLA, a derivative-free classical optimiser, updates the parameters to lower it. By the variational principle the result is an upper bound on the true ground-state energy.</p></article>
+    <article style="--c:#fbbf24"><h3>Total energy</h3><p>The qubit Hamiltonian covers the electronic part only. The nuclear repulsion energy is added separately to get the total molecular energy.</p></article>
+  </div>
+  <h3>Limitations</h3>
+  <ul class="lim">
+    <li>Simulations on classical hardware are not runs on a physical quantum computer, and noise-free simulation does not show real-device performance.</li>
+    <li>Small basis sets such as STO-3G limit accuracy compared with experiment and larger-basis methods.</li>
+    <li>A finite number of optimiser evaluations does not by itself prove convergence; the optimiser and starting point can trap the result in a local minimum.</li>
+    <li>Water is a small test case. Drug-sized molecules need far more qubits and circuit depth than today's methods and devices comfortably handle.</li>
+    <li>This project does not claim a quantum advantage.</li>
+  </ul>
+</section>
+</main>
+<footer>QuantumMed · Physics project · VQE with UCCSD + COBYLA on H₂O</footer>
+<script src="data.js"></script>
+<script src="script.js"></script>
+</body>
+</html>

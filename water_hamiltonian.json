@@ -1,0 +1,5432 @@
+[
+  {
+    "pauli": "IIIIIIIIIIIIII",
+    "real": -55.7024763500625,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIIIIIIZ",
+    "real": 12.420455120388036,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIIIIIZI",
+    "real": 1.655103261409114,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIIIIIZZ",
+    "real": 0.23349166851715636,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIIIIYYI",
+    "real": -0.14649702248193472,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIIIIYYZ",
+    "real": -0.034172666456981644,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIIIIXXI",
+    "real": -0.14649702248193472,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIIIIXXZ",
+    "real": -0.034172666456981644,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIYZZZYI",
+    "real": -0.2816907941194153,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIYZZZYZ",
+    "real": -0.06697196831207881,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIXZZZXI",
+    "real": -0.2816907941194153,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIXZZZXZ",
+    "real": -0.06697196831207881,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIIIIZII",
+    "real": 1.3006580013335118,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIIIIZIZ",
+    "real": 0.22913600197139308,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIYZZYII",
+    "real": 0.25472064220646756,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIYZZYIZ",
+    "real": 0.06017439260441918,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIXZZXII",
+    "real": 0.25472064220646756,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIXZZXIZ",
+    "real": 0.06017439260441918,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIIIZIII",
+    "real": 1.2196795766189945,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIIIZIIZ",
+    "real": 0.21192254872734193,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIYZZYIII",
+    "real": 0.34907808952506897,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIYZZYIIZ",
+    "real": 0.08230700691203417,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIXZZXIII",
+    "real": 0.34907808952506897,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIXZZXIIZ",
+    "real": 0.08230700691203417,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIIZIIII",
+    "real": 1.3726114633931394,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIIZIIIZ",
+    "real": 0.27233228157266764,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIZIIIII",
+    "real": 0.8615697606391541,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIZIIIIZ",
+    "real": 0.21306058424544375,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIZIIIIII",
+    "real": 0.7303769690350841,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIZIIIIIZ",
+    "real": 0.19093150141098664,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIZIIIIIII",
+    "real": 12.420455120388034,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIZIIIIIIZ",
+    "real": 1.186333001571229,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIYYIIIIIII",
+    "real": 0.12187310344903926,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIYYIIIIIIZ",
+    "real": 0.10146738407635932,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIXXIIIIIII",
+    "real": 0.12187310344903926,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIXXIIIIIIZ",
+    "real": 0.10146738407635932,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIYZYIIIIIII",
+    "real": 0.056985848631463665,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIYZYIIIIIIZ",
+    "real": 0.05729910167976356,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIXZXIIIIIII",
+    "real": 0.056985848631463665,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIXZXIIIIIIZ",
+    "real": 0.05729910167976356,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZZZZYIIIIIII",
+    "real": 0.06364909188458549,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZZZZYIIIIIIZ",
+    "real": 0.0506577666531008,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZZZZXIIIIIII",
+    "real": 0.06364909188458549,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZZZZXIIIIIIZ",
+    "real": 0.0506577666531008,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIZIIIIIIII",
+    "real": 1.655103261409114,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIZIIIIIIIZ",
+    "real": 0.24737539312332,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIYYIIIIIIII",
+    "real": -0.14649702248193472,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIYYIIIIIIIZ",
+    "real": -0.04111010615216385,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIXXIIIIIIII",
+    "real": -0.14649702248193472,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIXXIIIIIIIZ",
+    "real": -0.04111010615216385,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZZZYIIIIIIII",
+    "real": -0.2816907941194154,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZZZYIIIIIIIZ",
+    "real": -0.07486216867795163,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZZZXIIIIIIII",
+    "real": -0.2816907941194154,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZZZXIIIIIIIZ",
+    "real": -0.07486216867795163,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIZIIIIIIIII",
+    "real": 1.3006580013335118,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIZIIIIIIIIZ",
+    "real": 0.23649282655348236,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZZYIIIIIIIII",
+    "real": 0.25472064220646773,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZZYIIIIIIIIZ",
+    "real": 0.05994030081731468,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZZXIIIIIIIII",
+    "real": 0.25472064220646773,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZZXIIIIIIIIZ",
+    "real": 0.05994030081731468,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIZIIIIIIIIII",
+    "real": 1.219679576618995,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIZIIIIIIIIIZ",
+    "real": 0.21539788493252657,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZYIIIIIIIIII",
+    "real": 0.3490780895250689,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZYIIIIIIIIIZ",
+    "real": 0.0860381880878965,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZXIIIIIIIIII",
+    "real": 0.3490780895250689,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZXIIIIIIIIIZ",
+    "real": 0.0860381880878965,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIZIIIIIIIIIII",
+    "real": 1.3726114633931394,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIZIIIIIIIIIIZ",
+    "real": 0.278836078383892,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IZIIIIIIIIIIII",
+    "real": 0.8615697606391546,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IZIIIIIIIIIIIZ",
+    "real": 0.22109389006611574,
+    "imag": 0.0
+  },
+  {
+    "pauli": "ZIIIIIIIIIIIII",
+    "real": 0.7303769690350841,
+    "imag": 0.0
+  },
+  {
+    "pauli": "ZIIIIIIIIIIIIZ",
+    "real": 0.19494694885306552,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIIIIYZY",
+    "real": 0.056985848631463665,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIIIIYIY",
+    "real": 0.0019340682444435615,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIIIIXZX",
+    "real": 0.056985848631463665,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIIIIXIX",
+    "real": 0.0019340682444435615,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIYZZZZY",
+    "real": 0.06364909188458545,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIYZZZIY",
+    "real": -0.0023937518781643767,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIXZZZZX",
+    "real": 0.06364909188458545,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIXZZZIX",
+    "real": -0.0023937518781643767,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIIIIIYY",
+    "real": 0.12187310344903929,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIIIIZYY",
+    "real": 0.006412746623629951,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIIIIIXX",
+    "real": 0.12187310344903929,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIIIIZXX",
+    "real": 0.006412746623629951,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIYZZYYY",
+    "real": 0.00628074391630038,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIXZZXYY",
+    "real": 0.005744584942122136,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIYZZXXY",
+    "real": 0.0005361589741782426,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIXZZYYX",
+    "real": 0.0005361589741782426,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIYZZYXX",
+    "real": 0.005744584942122136,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIXZZXXX",
+    "real": 0.00628074391630038,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIIIZIYY",
+    "real": 0.006378605463634062,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIIIZIXX",
+    "real": 0.006378605463634062,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIYZZYIYY",
+    "real": 0.00701894024346155,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIXZZXIYY",
+    "real": 0.005137480807002941,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIYZZXIXY",
+    "real": 0.0018814594364586102,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIXZZYIYX",
+    "real": 0.0018814594364586102,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIYZZYIXX",
+    "real": 0.005137480807002941,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIXZZXIXX",
+    "real": 0.00701894024346155,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIIZIIYY",
+    "real": 0.010756502343190004,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIIZIIXX",
+    "real": 0.010756502343190004,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIZIIIYY",
+    "real": 0.005075689805142556,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIZIIIXX",
+    "real": 0.005075689805142556,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIZIIIIYY",
+    "real": 0.00492800128294725,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIZIIIIXX",
+    "real": 0.00492800128294725,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIZIIIIIYY",
+    "real": 0.10146738407635932,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIZIIIIIXX",
+    "real": 0.10146738407635932,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIYYIIIIIYY",
+    "real": 0.01388372460616363,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIXXIIIIIYY",
+    "real": 0.01388372460616363,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIYYIIIIIXX",
+    "real": 0.01388372460616363,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIXXIIIIIXX",
+    "real": 0.01388372460616363,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIYZYIIIIIYY",
+    "real": 0.006937439695182206,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIXZXIIIIIYY",
+    "real": 0.006937439695182206,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIYZYIIIIIXX",
+    "real": 0.006937439695182206,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIXZXIIIIIXX",
+    "real": 0.006937439695182206,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZZZZYIIIIIYY",
+    "real": 0.007890200365872811,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZZZZXIIIIIYY",
+    "real": 0.007890200365872811,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZZZZYIIIIIXX",
+    "real": 0.007890200365872811,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZZZZXIIIIIXX",
+    "real": 0.007890200365872811,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIZIIIIIIYY",
+    "real": 0.00272163816679514,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIZIIIIIIXX",
+    "real": 0.00272163816679514,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIYYIIIIIIYY",
+    "real": -0.0026537064121965187,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIXXIIIIIIYY",
+    "real": -0.0026537064121965187,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIYYIIIIIIXX",
+    "real": -0.0026537064121965187,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIXXIIIIIIXX",
+    "real": -0.0026537064121965187,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZZZYIIIIIIYY",
+    "real": -0.0010874862227187388,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZZZXIIIIIIYY",
+    "real": -0.0010874862227187388,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZZZYIIIIIIXX",
+    "real": -0.0010874862227187388,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZZZXIIIIIIXX",
+    "real": -0.0010874862227187388,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIZIIIIIIIYY",
+    "real": 0.0034338393293609046,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIZIIIIIIIXX",
+    "real": 0.0034338393293609046,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZZYIIIIIIIYY",
+    "real": 0.0009814204056346608,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZZXIIIIIIIYY",
+    "real": 0.0009814204056346608,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZZYIIIIIIIXX",
+    "real": 0.0009814204056346608,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZZXIIIIIIIXX",
+    "real": 0.0009814204056346608,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIZIIIIIIIIYY",
+    "real": 0.0012993624103968264,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIZIIIIIIIIXX",
+    "real": 0.0012993624103968264,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZYIIIIIIIIYY",
+    "real": 0.0019159661524262273,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZXIIIIIIIIYY",
+    "real": 0.0019159661524262273,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZYIIIIIIIIXX",
+    "real": 0.0019159661524262273,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZXIIIIIIIIXX",
+    "real": 0.0019159661524262273,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIZIIIIIIIIIYY",
+    "real": 0.0028563396589178355,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIZIIIIIIIIIXX",
+    "real": 0.0028563396589178355,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IZIIIIIIIIIIYY",
+    "real": 0.001837102066084167,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IZIIIIIIIIIIXX",
+    "real": 0.001837102066084167,
+    "imag": 0.0
+  },
+  {
+    "pauli": "ZIIIIIIIIIIIYY",
+    "real": 0.0016125217194547191,
+    "imag": 0.0
+  },
+  {
+    "pauli": "ZIIIIIIIIIIIXX",
+    "real": 0.0016125217194547191,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIYZZIZY",
+    "real": 0.004439317598574879,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIXZZIZX",
+    "real": 0.004439317598574879,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIIIZYZY",
+    "real": 0.003633222545593187,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIIIZXZX",
+    "real": 0.003633222545593187,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIYZZYYZY",
+    "real": 0.00174293537262353,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIXZZXYZY",
+    "real": 0.002772352697114902,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIYZZXXZY",
+    "real": -0.0010294173244913714,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIXZZYYZX",
+    "real": -0.0010294173244913714,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIYZZYXZX",
+    "real": 0.002772352697114902,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIXZZXXZX",
+    "real": 0.00174293537262353,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIIZIYZY",
+    "real": 0.005807025440403028,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIIZIXZX",
+    "real": 0.005807025440403028,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIZIIYZY",
+    "real": 0.006798476879455568,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIZIIXZX",
+    "real": 0.006798476879455568,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIZIIIYZY",
+    "real": 0.004533676709157437,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIZIIIXZX",
+    "real": 0.004533676709157437,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIZIIIIYZY",
+    "real": 0.05729910167976356,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIZIIIIXZX",
+    "real": 0.05729910167976356,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIYYIIIIYZY",
+    "real": 0.006937439695182206,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIXXIIIIYZY",
+    "real": 0.006937439695182206,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIYYIIIIXZX",
+    "real": 0.006937439695182206,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIXXIIIIXZX",
+    "real": 0.006937439695182206,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIYZYIIIIYZY",
+    "real": 0.007356824582089283,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIXZXIIIIYZY",
+    "real": 0.007356824582089283,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIYZYIIIIXZX",
+    "real": 0.007356824582089283,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIXZXIIIIXZX",
+    "real": 0.007356824582089283,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZZZZYIIIIYZY",
+    "real": 0.00023409178710449822,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZZZZXIIIIYZY",
+    "real": 0.00023409178710449822,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZZZZYIIIIXZX",
+    "real": 0.00023409178710449822,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZZZZXIIIIXZX",
+    "real": 0.00023409178710449822,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIZIIIIIYZY",
+    "real": 0.00458777465664008,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIZIIIIIXZX",
+    "real": 0.00458777465664008,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIYYIIIIIYZY",
+    "real": 0.0029789072942690465,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIXXIIIIIYZY",
+    "real": 0.0029789072942690465,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIYYIIIIIXZX",
+    "real": 0.0029789072942690465,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIXXIIIIIXZX",
+    "real": 0.0029789072942690465,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZZZYIIIIIYZY",
+    "real": -0.004763164536487475,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZZZXIIIIIYZY",
+    "real": -0.004763164536487475,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZZZYIIIIIXZX",
+    "real": -0.004763164536487475,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZZZXIIIIIXZX",
+    "real": -0.004763164536487475,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIZIIIIIIYZY",
+    "real": -0.002004819515102288,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIZIIIIIIXZX",
+    "real": -0.002004819515102288,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZZYIIIIIIYZY",
+    "real": -0.0008927672749141956,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZZXIIIIIIYZY",
+    "real": -0.0008927672749141956,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZZYIIIIIIXZX",
+    "real": -0.0008927672749141956,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZZXIIIIIIXZX",
+    "real": -0.0008927672749141956,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIZIIIIIIIYZY",
+    "real": 0.0018606424791545466,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIZIIIIIIIXZX",
+    "real": 0.0018606424791545466,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZYIIIIIIIYZY",
+    "real": -0.00018270973505887802,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZXIIIIIIIYZY",
+    "real": -0.00018270973505887802,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZYIIIIIIIXZX",
+    "real": -0.00018270973505887802,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZXIIIIIIIXZX",
+    "real": -0.00018270973505887802,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIZIIIIIIIIYZY",
+    "real": 0.0016110706255135184,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIZIIIIIIIIXZX",
+    "real": 0.0016110706255135184,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IZIIIIIIIIIYZY",
+    "real": 0.00498011963232515,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IZIIIIIIIIIXZX",
+    "real": 0.00498011963232515,
+    "imag": 0.0
+  },
+  {
+    "pauli": "ZIIIIIIIIIIYZY",
+    "real": 0.0014299643488501295,
+    "imag": 0.0
+  },
+  {
+    "pauli": "ZIIIIIIIIIIXZX",
+    "real": 0.0014299643488501295,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIYZIZZY",
+    "real": 0.0010514924950749773,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIXZIZZX",
+    "real": 0.0010514924950749773,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIYYIYZZY",
+    "real": -0.0005687684937704107,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIXXIYZZY",
+    "real": -0.003909406166199449,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIYXIXZZY",
+    "real": 0.0033406376724290383,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIXYIYZZX",
+    "real": 0.0033406376724290383,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIYYIXZZX",
+    "real": -0.003909406166199449,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIXXIXZZX",
+    "real": -0.0005687684937704107,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIYZZYIIIYZZY",
+    "real": 0.0034753362051846426,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIXZZXIIIYZZY",
+    "real": 0.0034753362051846426,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIYZZYIIIXZZX",
+    "real": 0.0034753362051846426,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIXZZXIIIXZZX",
+    "real": 0.0034753362051846426,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZZZZYIIIYZZY",
+    "real": -0.0037311811758623287,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZZZZXIIIYZZY",
+    "real": -0.0037311811758623287,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZZZZYIIIXZZX",
+    "real": -0.0037311811758623287,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZZZZXIIIXZZX",
+    "real": -0.0037311811758623287,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIYZYIIIIYZZY",
+    "real": 0.005079243053237237,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIXZXIIIIYZZY",
+    "real": 0.005079243053237237,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIYZYIIIIXZZX",
+    "real": 0.005079243053237237,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIXZXIIIIXZZX",
+    "real": 0.005079243053237237,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZZZYIIIIYZZY",
+    "real": -0.003221514654576713,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZZZXIIIIYZZY",
+    "real": -0.003221514654576713,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZZZYIIIIXZZX",
+    "real": -0.003221514654576713,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZZZXIIIIXZZX",
+    "real": -0.003221514654576713,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIYYIIIIIYZZY",
+    "real": 0.0017725800664386403,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIXXIIIIIYZZY",
+    "real": 0.0017725800664386403,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIYYIIIIIXZZX",
+    "real": 0.0017725800664386403,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIXXIIIIIXZZX",
+    "real": 0.0017725800664386403,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZZYIIIIIYZZY",
+    "real": -0.00295506243217378,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZZXIIIIIYZZY",
+    "real": -0.00295506243217378,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZZYIIIIIXZZX",
+    "real": -0.00295506243217378,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZZXIIIIIXZZX",
+    "real": -0.00295506243217378,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZYIIIIIIYZZY",
+    "real": 0.0013720239325395174,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZXIIIIIIYZZY",
+    "real": 0.0013720239325395174,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZYIIIIIIXZZX",
+    "real": 0.0013720239325395174,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZXIIIIIIXZZX",
+    "real": 0.0013720239325395174,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YYIIIIIIIIYZZY",
+    "real": -0.0018866463052555572,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XXIIIIIIIIYZZY",
+    "real": -0.0018866463052555572,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YYIIIIIIIIXZZX",
+    "real": -0.0018866463052555572,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XXIIIIIIIIXZZX",
+    "real": -0.0018866463052555572,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIYIZZZY",
+    "real": 0.004618210650108518,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIXIZZZX",
+    "real": 0.004618210650108518,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIYZZZYIIYZZZY",
+    "real": 0.0065037968112243725,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIXZZZXIIYZZZY",
+    "real": 0.0065037968112243725,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIYZZZYIIXZZZX",
+    "real": 0.0065037968112243725,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIXZZZXIIXZZZX",
+    "real": 0.0065037968112243725,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIYZZYIIIYZZZY",
+    "real": 0.007900162684272167,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIXZZXIIIYZZZY",
+    "real": 0.007900162684272167,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIYZZYIIIXZZZX",
+    "real": 0.007900162684272167,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIXZZXIIIXZZZX",
+    "real": 0.007900162684272167,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIYZYIIIIYZZZY",
+    "real": 0.004195954814889509,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIXZXIIIIYZZZY",
+    "real": 0.004195954814889509,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIYZYIIIIXZZZX",
+    "real": 0.004195954814889509,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIXZXIIIIXZZZX",
+    "real": 0.004195954814889509,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYYIIIIIIYZZZY",
+    "real": 0.0033105206654695245,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXXIIIIIIYZZZY",
+    "real": 0.0033105206654695245,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYYIIIIIIXZZZX",
+    "real": 0.0033105206654695245,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXXIIIIIIXZZZX",
+    "real": 0.0033105206654695245,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIZYZZZZY",
+    "real": 0.0021769831698207937,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIZXZZZZX",
+    "real": 0.0021769831698207937,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIZIYZZZZY",
+    "real": 0.0506577666531008,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIZIXZZZZX",
+    "real": 0.0506577666531008,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIYYIYZZZZY",
+    "real": 0.007890200365872811,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIXXIYZZZZY",
+    "real": 0.007890200365872811,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIYYIXZZZZX",
+    "real": 0.007890200365872811,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIXXIXZZZZX",
+    "real": 0.007890200365872811,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIYZYIYZZZZY",
+    "real": 0.00023409178710449822,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIXZXIYZZZZY",
+    "real": 0.00023409178710449822,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIYZYIXZZZZX",
+    "real": 0.00023409178710449822,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIXZXIXZZZZX",
+    "real": 0.00023409178710449822,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZZZZYIYZZZZY",
+    "real": 0.008033305820671991,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZZZZXIYZZZZY",
+    "real": 0.008033305820671991,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZZZZYIXZZZZX",
+    "real": 0.008033305820671991,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZZZZXIXZZZZX",
+    "real": 0.008033305820671991,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIZIIYZZZZY",
+    "real": -0.0013062656554456377,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIZIIXZZZZX",
+    "real": -0.0013062656554456377,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIYYIIYZZZZY",
+    "real": -0.005299323510665719,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIXXIIYZZZZY",
+    "real": -0.005299323510665719,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIYYIIXZZZZX",
+    "real": -0.005299323510665719,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIXXIIXZZZZX",
+    "real": -0.005299323510665719,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZZZYIIYZZZZY",
+    "real": 0.0032385877390583894,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZZZXIIYZZZZY",
+    "real": 0.0032385877390583894,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZZZYIIXZZZZX",
+    "real": 0.0032385877390583894,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZZZXIIXZZZZX",
+    "real": 0.0032385877390583894,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIZIIIYZZZZY",
+    "real": 0.005332084873489074,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIZIIIXZZZZX",
+    "real": 0.005332084873489074,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZZYIIIYZZZZY",
+    "real": 0.0018183572471304184,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZZXIIIYZZZZY",
+    "real": 0.0018183572471304184,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZZYIIIXZZZZX",
+    "real": 0.0018183572471304184,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZZXIIIXZZZZX",
+    "real": 0.0018183572471304184,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIZIIIIYZZZZY",
+    "real": -0.0003205314374645399,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIZIIIIXZZZZX",
+    "real": -0.0003205314374645399,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZYIIIIYZZZZY",
+    "real": 0.002022759860943893,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZXIIIIYZZZZY",
+    "real": 0.002022759860943893,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZYIIIIXZZZZX",
+    "real": 0.002022759860943893,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZXIIIIXZZZZX",
+    "real": 0.002022759860943893,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIZIIIIIYZZZZY",
+    "real": 0.0013076899846389942,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIZIIIIIXZZZZX",
+    "real": 0.0013076899846389942,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IZIIIIIIYZZZZY",
+    "real": -0.002720228384967047,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IZIIIIIIXZZZZX",
+    "real": -0.002720228384967047,
+    "imag": 0.0
+  },
+  {
+    "pauli": "ZIIIIIIIYZZZZY",
+    "real": 0.00028016680860458096,
+    "imag": 0.0
+  },
+  {
+    "pauli": "ZIIIIIIIXZZZZX",
+    "real": 0.00028016680860458096,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIYZZYYZZZZZY",
+    "real": -0.0037311811758623287,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIXZZXYZZZZZY",
+    "real": -0.0037311811758623287,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIYZZYXZZZZZX",
+    "real": -0.0037311811758623287,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIXZZXXZZZZZX",
+    "real": -0.0037311811758623287,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZZZZYYZZZZZY",
+    "real": 0.004015447442078881,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZZZZXYZZZZZY",
+    "real": 0.004015447442078881,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZZZZYXZZZZZX",
+    "real": 0.004015447442078881,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZZZZXXZZZZZX",
+    "real": 0.004015447442078881,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIYZYIYZZZZZY",
+    "real": -0.005102974091035322,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIXZXIYZZZZZY",
+    "real": -0.005102974091035322,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIYZYIXZZZZZX",
+    "real": -0.005102974091035322,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIXZXIXZZZZZX",
+    "real": -0.005102974091035322,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZZZYIYZZZZZY",
+    "real": 0.00331547956349253,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZZZXIYZZZZZY",
+    "real": 0.00331547956349253,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZZZYIXZZZZZX",
+    "real": 0.00331547956349253,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZZZXIXZZZZZX",
+    "real": 0.00331547956349253,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIYYIIYZZZZZY",
+    "real": -0.001925645107682408,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIXXIIYZZZZZY",
+    "real": -0.001925645107682408,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIYYIIXZZZZZX",
+    "real": -0.001925645107682408,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIXXIIXZZZZZX",
+    "real": -0.001925645107682408,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZZYIIYZZZZZY",
+    "real": 0.003103712360307309,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZZXIIYZZZZZY",
+    "real": 0.003103712360307309,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZZYIIXZZZZZX",
+    "real": 0.003103712360307309,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZZXIIXZZZZZX",
+    "real": 0.003103712360307309,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZYIIIYZZZZZY",
+    "real": -0.0013178778114851465,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZXIIIYZZZZZY",
+    "real": -0.0013178778114851465,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZYIIIXZZZZZX",
+    "real": -0.0013178778114851465,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZXIIIXZZZZZX",
+    "real": -0.0013178778114851465,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YYIIIIIYZZZZZY",
+    "real": 0.0018968163612162125,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XXIIIIIYZZZZZY",
+    "real": 0.0018968163612162125,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YYIIIIIXZZZZZX",
+    "real": 0.0018968163612162125,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XXIIIIIXZZZZZX",
+    "real": 0.0018968163612162125,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIIIIZZI",
+    "real": 0.13165139146660493,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIYZZYZI",
+    "real": 0.01804068081788962,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIXZZXZI",
+    "real": 0.01804068081788962,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIIIZIZI",
+    "real": 0.1324772585631194,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIYZZYIZI",
+    "real": 0.020008463890592836,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIXZZXIZI",
+    "real": 0.020008463890592836,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIIZIIZI",
+    "real": 0.1501399194991639,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIZIIIZI",
+    "real": 0.136535146326075,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIZIIIIZI",
+    "real": 0.1382458728159249,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIZIIIIIZI",
+    "real": 0.24737539312332,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIYYIIIIIZI",
+    "real": 0.00272163816679514,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIXXIIIIIZI",
+    "real": 0.00272163816679514,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIYZYIIIIIZI",
+    "real": 0.00458777465664008,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIXZXIIIIIZI",
+    "real": 0.00458777465664008,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZZZZYIIIIIZI",
+    "real": -0.0013062656554456377,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZZZZXIIIIIZI",
+    "real": -0.0013062656554456377,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIZIIIIIIZI",
+    "real": 0.18410246986496895,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIYYIIIIIIZI",
+    "real": 0.0013720994836892047,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIXXIIIIIIZI",
+    "real": 0.0013720994836892047,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZZZYIIIIIIZI",
+    "real": -0.03665028350458364,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZZZXIIIIIIZI",
+    "real": -0.03665028350458364,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIZIIIIIIIZI",
+    "real": 0.16129410232451485,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZZYIIIIIIIZI",
+    "real": 0.020298439690202043,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZZXIIIIIIIZI",
+    "real": 0.020298439690202043,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIZIIIIIIIIZI",
+    "real": 0.16784479101720068,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZYIIIIIIIIZI",
+    "real": 0.02667158616490418,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZXIIIIIIIIZI",
+    "real": 0.02667158616490418,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIZIIIIIIIIIZI",
+    "real": 0.18480051268048758,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IZIIIIIIIIIIZI",
+    "real": 0.1640852521079187,
+    "imag": 0.0
+  },
+  {
+    "pauli": "ZIIIIIIIIIIIZI",
+    "real": 0.15259688993125484,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIYZZIYI",
+    "real": -0.03391616159746358,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIXZZIXI",
+    "real": -0.03391616159746358,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIIIZYYI",
+    "real": -0.003055016112754887,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIIIZXXI",
+    "real": -0.003055016112754887,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIYZZYYYI",
+    "real": -0.013345930029629263,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIXZZXYYI",
+    "real": -0.002967211919295669,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIYZZXXYI",
+    "real": -0.010378718110333595,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIXZZYYXI",
+    "real": -0.010378718110333595,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIYZZYXXI",
+    "real": -0.002967211919295669,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIXZZXXXI",
+    "real": -0.013345930029629263,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIIZIYYI",
+    "real": -0.00755002863880176,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIIZIXXI",
+    "real": -0.00755002863880176,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIZIIYYI",
+    "real": -0.0026945832382617003,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIZIIXXI",
+    "real": -0.0026945832382617003,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIZIIIYYI",
+    "real": 0.0037832744852613794,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIZIIIXXI",
+    "real": 0.0037832744852613794,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIZIIIIYYI",
+    "real": -0.04111010615216385,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIZIIIIXXI",
+    "real": -0.04111010615216385,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIYYIIIIYYI",
+    "real": -0.0026537064121965187,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIXXIIIIYYI",
+    "real": -0.0026537064121965187,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIYYIIIIXXI",
+    "real": -0.0026537064121965187,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIXXIIIIXXI",
+    "real": -0.0026537064121965187,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIYZYIIIIYYI",
+    "real": 0.0029789072942690465,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIXZXIIIIYYI",
+    "real": 0.0029789072942690465,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIYZYIIIIXXI",
+    "real": 0.0029789072942690465,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIXZXIIIIXXI",
+    "real": 0.0029789072942690465,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZZZZYIIIIYYI",
+    "real": -0.005299323510665719,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZZZZXIIIIYYI",
+    "real": -0.005299323510665719,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZZZZYIIIIXXI",
+    "real": -0.005299323510665719,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZZZZXIIIIXXI",
+    "real": -0.005299323510665719,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIZIIIIIYYI",
+    "real": 0.0013720994836892047,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIZIIIIIXXI",
+    "real": 0.0013720994836892047,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIYYIIIIIYYI",
+    "real": 0.029642710857909933,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIXXIIIIIYYI",
+    "real": 0.029642710857909933,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIYYIIIIIXXI",
+    "real": 0.029642710857909933,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIXXIIIIIXXI",
+    "real": 0.029642710857909933,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZZZYIIIIIYYI",
+    "real": -0.0022577588723124192,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZZZXIIIIIYYI",
+    "real": -0.0022577588723124192,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZZZYIIIIIXXI",
+    "real": -0.0022577588723124192,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZZZXIIIIIXXI",
+    "real": -0.0022577588723124192,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIZIIIIIIYYI",
+    "real": -0.023556508018622628,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIZIIIIIIXXI",
+    "real": -0.023556508018622628,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZZYIIIIIIYYI",
+    "real": -0.018598984535935784,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZZXIIIIIIYYI",
+    "real": -0.018598984535935784,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZZYIIIIIIXXI",
+    "real": -0.018598984535935784,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZZXIIIIIIXXI",
+    "real": -0.018598984535935784,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIZIIIIIIIYYI",
+    "real": -0.0025826956305740646,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIZIIIIIIIXXI",
+    "real": -0.0025826956305740646,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZYIIIIIIIYYI",
+    "real": -0.02473153829159032,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZXIIIIIIIYYI",
+    "real": -0.02473153829159032,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZYIIIIIIIXXI",
+    "real": -0.02473153829159032,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZXIIIIIIIXXI",
+    "real": -0.02473153829159032,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIZIIIIIIIIYYI",
+    "real": -0.02202076010010797,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIZIIIIIIIIXXI",
+    "real": -0.02202076010010797,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IZIIIIIIIIIYYI",
+    "real": 0.00956582384494495,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IZIIIIIIIIIXXI",
+    "real": 0.00956582384494495,
+    "imag": 0.0
+  },
+  {
+    "pauli": "ZIIIIIIIIIIYYI",
+    "real": 0.0031668245908064293,
+    "imag": 0.0
+  },
+  {
+    "pauli": "ZIIIIIIIIIIXXI",
+    "real": 0.0031668245908064293,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIYZIZYI",
+    "real": -0.02593148761544122,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIXZIZXI",
+    "real": -0.02593148761544122,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIYYIYZYI",
+    "real": -0.010832731449972535,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIXXIYZYI",
+    "real": -0.0018212197326399893,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIYXIXZYI",
+    "real": -0.009011511717332546,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIXYIYZXI",
+    "real": -0.009011511717332546,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIYYIXZXI",
+    "real": -0.0018212197326399893,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIXXIXZXI",
+    "real": -0.010832731449972535,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIYZZYIIIYZYI",
+    "real": 0.005079243053237237,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIXZZXIIIYZYI",
+    "real": 0.005079243053237237,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIYZZYIIIXZXI",
+    "real": 0.005079243053237237,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIXZZXIIIXZXI",
+    "real": 0.005079243053237237,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZZZZYIIIYZYI",
+    "real": -0.005102974091035322,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZZZZXIIIYZYI",
+    "real": -0.005102974091035322,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZZZZYIIIXZXI",
+    "real": -0.005102974091035322,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZZZZXIIIXZXI",
+    "real": -0.005102974091035322,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIYZYIIIIYZYI",
+    "real": 0.03536753245408127,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIXZXIIIIYZYI",
+    "real": 0.03536753245408127,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIYZYIIIIXZXI",
+    "real": 0.03536753245408127,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIXZXIIIIXZXI",
+    "real": 0.03536753245408127,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZZZYIIIIYZYI",
+    "real": -0.006663122274311345,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZZZXIIIIYZYI",
+    "real": -0.006663122274311345,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZZZYIIIIXZXI",
+    "real": -0.006663122274311345,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZZZXIIIIXZXI",
+    "real": -0.006663122274311345,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIYYIIIIIYZYI",
+    "real": -0.0004723204821808221,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIXXIIIIIYZYI",
+    "real": -0.0004723204821808221,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIYYIIIIIXZXI",
+    "real": -0.0004723204821808221,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIXXIIIIIXZXI",
+    "real": -0.0004723204821808221,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZZYIIIIIYZYI",
+    "real": -0.021764326372294647,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZZXIIIIIYZYI",
+    "real": -0.021764326372294647,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZZYIIIIIXZXI",
+    "real": -0.021764326372294647,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZZXIIIIIXZXI",
+    "real": -0.021764326372294647,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZYIIIIIIYZYI",
+    "real": -0.0014986943864309,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZXIIIIIIYZYI",
+    "real": -0.0014986943864309,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZYIIIIIIXZXI",
+    "real": -0.0014986943864309,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZXIIIIIIXZXI",
+    "real": -0.0014986943864309,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YYIIIIIIIIYZYI",
+    "real": -0.01966516346587657,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XXIIIIIIIIYZYI",
+    "real": -0.01966516346587657,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YYIIIIIIIIXZXI",
+    "real": -0.01966516346587657,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XXIIIIIIIIXZXI",
+    "real": -0.01966516346587657,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIYIZZYI",
+    "real": -0.025841989835191453,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIXIZZXI",
+    "real": -0.025841989835191453,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIYZZZYIIYZZYI",
+    "real": 0.007900162684272167,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIXZZZXIIYZZYI",
+    "real": 0.007900162684272167,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIYZZZYIIXZZXI",
+    "real": 0.007900162684272167,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIXZZZXIIXZZXI",
+    "real": 0.007900162684272167,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIYZZYIIIYZZYI",
+    "real": 0.0346605931813237,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIXZZXIIIYZZYI",
+    "real": 0.0346605931813237,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIYZZYIIIXZZXI",
+    "real": 0.0346605931813237,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIXZZXIIIXZZXI",
+    "real": 0.0346605931813237,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIYZYIIIIYZZYI",
+    "real": 0.014470731461306213,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIXZXIIIIYZZYI",
+    "real": 0.014470731461306213,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIYZYIIIIXZZXI",
+    "real": 0.014470731461306213,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIXZXIIIIXZZXI",
+    "real": 0.014470731461306213,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYYIIIIIIYZZYI",
+    "real": 0.012729815927837505,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXXIIIIIIYZZYI",
+    "real": 0.012729815927837505,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYYIIIIIIXZZXI",
+    "real": 0.012729815927837505,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXXIIIIIIXZZXI",
+    "real": 0.012729815927837505,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIZYZZZYI",
+    "real": -0.019585603301796962,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIZXZZZXI",
+    "real": -0.019585603301796962,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIZIYZZZYI",
+    "real": -0.07486216867795163,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIZIXZZZXI",
+    "real": -0.07486216867795163,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIYYIYZZZYI",
+    "real": -0.0010874862227187388,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIXXIYZZZYI",
+    "real": -0.0010874862227187388,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIYYIXZZZXI",
+    "real": -0.0010874862227187388,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIXXIXZZZXI",
+    "real": -0.0010874862227187388,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIYZYIYZZZYI",
+    "real": -0.004763164536487475,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIXZXIYZZZYI",
+    "real": -0.004763164536487475,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIYZYIXZZZXI",
+    "real": -0.004763164536487475,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIXZXIXZZZXI",
+    "real": -0.004763164536487475,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZZZZYIYZZZYI",
+    "real": 0.0032385877390583894,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZZZZXIYZZZYI",
+    "real": 0.0032385877390583894,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZZZZYIXZZZXI",
+    "real": 0.0032385877390583894,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZZZZXIXZZZXI",
+    "real": 0.0032385877390583894,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIZIIYZZZYI",
+    "real": -0.03665028350458364,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIZIIXZZZXI",
+    "real": -0.03665028350458364,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIYYIIYZZZYI",
+    "real": -0.0022577588723124192,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIXXIIYZZZYI",
+    "real": -0.0022577588723124192,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIYYIIXZZZXI",
+    "real": -0.0022577588723124192,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIXXIIXZZZXI",
+    "real": -0.0022577588723124192,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZZZYIIYZZZYI",
+    "real": 0.0275501057818437,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZZZXIIYZZZYI",
+    "real": 0.0275501057818437,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZZZYIIXZZZXI",
+    "real": 0.0275501057818437,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZZZXIIXZZZXI",
+    "real": 0.0275501057818437,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIZIIIYZZZYI",
+    "real": -0.015317177061527793,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIZIIIXZZZXI",
+    "real": -0.015317177061527793,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZZYIIIYZZZYI",
+    "real": -0.012260407083206649,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZZXIIIYZZZYI",
+    "real": -0.012260407083206649,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZZYIIIXZZZXI",
+    "real": -0.012260407083206649,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZZXIIIXZZZXI",
+    "real": -0.012260407083206649,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIZIIIIYZZZYI",
+    "real": -0.024432793229010322,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIZIIIIXZZZXI",
+    "real": -0.024432793229010322,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZYIIIIYZZZYI",
+    "real": -0.01784394373323658,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZXIIIIYZZZYI",
+    "real": -0.01784394373323658,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZYIIIIXZZZXI",
+    "real": -0.01784394373323658,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZXIIIIXZZZXI",
+    "real": -0.01784394373323658,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIZIIIIIYZZZYI",
+    "real": -0.03857180576302896,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIZIIIIIXZZZXI",
+    "real": -0.03857180576302896,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IZIIIIIIYZZZYI",
+    "real": -0.028091883012437136,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IZIIIIIIXZZZXI",
+    "real": -0.028091883012437136,
+    "imag": 0.0
+  },
+  {
+    "pauli": "ZIIIIIIIYZZZYI",
+    "real": -0.013127555791859154,
+    "imag": 0.0
+  },
+  {
+    "pauli": "ZIIIIIIIXZZZXI",
+    "real": -0.013127555791859154,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIYZZYYZZZZYI",
+    "real": -0.003221514654576713,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIXZZXYZZZZYI",
+    "real": -0.003221514654576713,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIYZZYXZZZZXI",
+    "real": -0.003221514654576713,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIXZZXXZZZZXI",
+    "real": -0.003221514654576713,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZZZZYYZZZZYI",
+    "real": 0.00331547956349253,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZZZZXYZZZZYI",
+    "real": 0.00331547956349253,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZZZZYXZZZZXI",
+    "real": 0.00331547956349253,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZZZZXXZZZZXI",
+    "real": 0.00331547956349253,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIYZYIYZZZZYI",
+    "real": -0.006663122274311345,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIXZXIYZZZZYI",
+    "real": -0.006663122274311345,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIYZYIXZZZZXI",
+    "real": -0.006663122274311345,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIXZXIXZZZZXI",
+    "real": -0.006663122274311345,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZZZYIYZZZZYI",
+    "real": 0.01435101711532993,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZZZXIYZZZZYI",
+    "real": 0.01435101711532993,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZZZYIXZZZZXI",
+    "real": 0.01435101711532993,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZZZXIXZZZZXI",
+    "real": 0.01435101711532993,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIYYIIYZZZZYI",
+    "real": -0.011385608261961057,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIXXIIYZZZZYI",
+    "real": -0.011385608261961057,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIYYIIXZZZZXI",
+    "real": -0.011385608261961057,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIXXIIXZZZZXI",
+    "real": -0.011385608261961057,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZZYIIYZZZZYI",
+    "real": 0.0006164498944549497,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZZXIIYZZZZYI",
+    "real": 0.0006164498944549497,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZZYIIXZZZZXI",
+    "real": 0.0006164498944549497,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZZXIIXZZZZXI",
+    "real": 0.0006164498944549497,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZYIIIYZZZZYI",
+    "real": -0.008832432015904034,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZXIIIYZZZZYI",
+    "real": -0.008832432015904034,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZYIIIXZZZZXI",
+    "real": -0.008832432015904034,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZXIIIXZZZZXI",
+    "real": -0.008832432015904034,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YYIIIIIYZZZZYI",
+    "real": -0.006458047509937807,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XXIIIIIYZZZZYI",
+    "real": -0.006458047509937807,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YYIIIIIXZZZZXI",
+    "real": -0.006458047509937807,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XXIIIIIXZZZZXI",
+    "real": -0.006458047509937807,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIIIZZII",
+    "real": 0.1395570892597259,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIYZZYZII",
+    "real": 0.031712798447207494,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIXZZXZII",
+    "real": 0.031712798447207494,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIIZIZII",
+    "real": 0.16016905545301224,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIZIIZII",
+    "real": 0.12075265683584904,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIZIIIZII",
+    "real": 0.12366475478004962,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIZIIIIZII",
+    "real": 0.23649282655348236,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIYYIIIIZII",
+    "real": 0.0034338393293609046,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIXXIIIIZII",
+    "real": 0.0034338393293609046,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIYZYIIIIZII",
+    "real": -0.002004819515102288,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIXZXIIIIZII",
+    "real": -0.002004819515102288,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZZZZYIIIIZII",
+    "real": 0.005332084873489074,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZZZZXIIIIZII",
+    "real": 0.005332084873489074,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIZIIIIIZII",
+    "real": 0.16129410232451485,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIYYIIIIIZII",
+    "real": -0.023556508018622628,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIXXIIIIIZII",
+    "real": -0.023556508018622628,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZZZYIIIIIZII",
+    "real": -0.015317177061527793,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZZZXIIIIIZII",
+    "real": -0.015317177061527793,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIZIIIIIIZII",
+    "real": 0.18255907879777736,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZZYIIIIIIZII",
+    "real": 0.03277021514778634,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZZXIIIIIIZII",
+    "real": 0.03277021514778634,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIZIIIIIIIZII",
+    "real": 0.1526678022832331,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZYIIIIIIIZII",
+    "real": 0.03217621636282973,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZXIIIIIIIZII",
+    "real": 0.03217621636282973,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIZIIIIIIIIZII",
+    "real": 0.17551650195838583,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IZIIIIIIIIIZII",
+    "real": 0.14591653538523894,
+    "imag": 0.0
+  },
+  {
+    "pauli": "ZIIIIIIIIIIZII",
+    "real": 0.1439858213617513,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIYZIYII",
+    "real": 0.018459889800254998,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIXZIXII",
+    "real": 0.018459889800254998,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIYYIYYII",
+    "real": 0.0020055897243629133,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIXXIYYII",
+    "real": -0.014527361298149424,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIYXIXYII",
+    "real": 0.01653295102251234,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIXYIYXII",
+    "real": 0.01653295102251234,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIYYIXXII",
+    "real": -0.014527361298149424,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIXXIXXII",
+    "real": 0.0020055897243629133,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIYZZYIIIYYII",
+    "real": 0.0017725800664386403,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIXZZXIIIYYII",
+    "real": 0.0017725800664386403,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIYZZYIIIXXII",
+    "real": 0.0017725800664386403,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIXZZXIIIXXII",
+    "real": 0.0017725800664386403,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZZZZYIIIYYII",
+    "real": -0.001925645107682408,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZZZZXIIIYYII",
+    "real": -0.001925645107682408,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZZZZYIIIXXII",
+    "real": -0.001925645107682408,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZZZZXIIIXXII",
+    "real": -0.001925645107682408,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIYZYIIIIYYII",
+    "real": -0.0004723204821808221,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIXZXIIIIYYII",
+    "real": -0.0004723204821808221,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIYZYIIIIXXII",
+    "real": -0.0004723204821808221,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIXZXIIIIXXII",
+    "real": -0.0004723204821808221,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZZZYIIIIYYII",
+    "real": -0.011385608261961057,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZZZXIIIIYYII",
+    "real": -0.011385608261961057,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZZZYIIIIXXII",
+    "real": -0.011385608261961057,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZZZXIIIIXXII",
+    "real": -0.011385608261961057,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIYYIIIIIYYII",
+    "real": 0.01311071302350719,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIXXIIIIIYYII",
+    "real": 0.01311071302350719,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIYYIIIIIXXII",
+    "real": 0.01311071302350719,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIXXIIIIIXXII",
+    "real": 0.01311071302350719,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZZYIIIIIYYII",
+    "real": -0.00046341791562223335,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZZXIIIIIYYII",
+    "real": -0.00046341791562223335,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZZYIIIIIXXII",
+    "real": -0.00046341791562223335,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZZXIIIIIXXII",
+    "real": -0.00046341791562223335,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZYIIIIIIYYII",
+    "real": 0.004379179388177146,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZXIIIIIIYYII",
+    "real": 0.004379179388177146,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZYIIIIIIXXII",
+    "real": 0.004379179388177146,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZXIIIIIIXXII",
+    "real": 0.004379179388177146,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YYIIIIIIIIYYII",
+    "real": 0.010335587428103142,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XXIIIIIIIIYYII",
+    "real": 0.010335587428103142,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YYIIIIIIIIXXII",
+    "real": 0.010335587428103142,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XXIIIIIIIIXXII",
+    "real": 0.010335587428103142,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIYIZYII",
+    "real": 0.032642201836198835,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIXIZXII",
+    "real": 0.032642201836198835,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIYZZZYIIYZYII",
+    "real": 0.004195954814889509,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIXZZZXIIYZYII",
+    "real": 0.004195954814889509,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIYZZZYIIXZXII",
+    "real": 0.004195954814889509,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIXZZZXIIXZXII",
+    "real": 0.004195954814889509,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIYZZYIIIYZYII",
+    "real": 0.014470731461306213,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIXZZXIIIYZYII",
+    "real": 0.014470731461306213,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIYZZYIIIXZXII",
+    "real": 0.014470731461306213,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIXZZXIIIXZXII",
+    "real": 0.014470731461306213,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIYZYIIIIYZYII",
+    "real": 0.015347446505373587,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIXZXIIIIYZYII",
+    "real": 0.015347446505373587,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIYZYIIIIXZXII",
+    "real": 0.015347446505373587,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIXZXIIIIXZXII",
+    "real": 0.015347446505373587,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYYIIIIIIYZYII",
+    "real": 0.00015788639726950848,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXXIIIIIIYZYII",
+    "real": 0.00015788639726950848,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYYIIIIIIXZXII",
+    "real": 0.00015788639726950848,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXXIIIIIIXZXII",
+    "real": 0.00015788639726950848,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIZYZZYII",
+    "real": 0.019012846278249833,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIZXZZXII",
+    "real": 0.019012846278249833,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIZIYZZYII",
+    "real": 0.05994030081731468,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIZIXZZXII",
+    "real": 0.05994030081731468,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIYYIYZZYII",
+    "real": 0.0009814204056346608,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIXXIYZZYII",
+    "real": 0.0009814204056346608,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIYYIXZZXII",
+    "real": 0.0009814204056346608,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIXXIXZZXII",
+    "real": 0.0009814204056346608,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIYZYIYZZYII",
+    "real": -0.0008927672749141956,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIXZXIYZZYII",
+    "real": -0.0008927672749141956,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIYZYIXZZXII",
+    "real": -0.0008927672749141956,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIXZXIXZZXII",
+    "real": -0.0008927672749141956,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZZZZYIYZZYII",
+    "real": 0.0018183572471304184,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZZZZXIYZZYII",
+    "real": 0.0018183572471304184,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZZZZYIXZZXII",
+    "real": 0.0018183572471304184,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZZZZXIXZZXII",
+    "real": 0.0018183572471304184,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIZIIYZZYII",
+    "real": 0.020298439690202043,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIZIIXZZXII",
+    "real": 0.020298439690202043,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIYYIIYZZYII",
+    "real": -0.018598984535935784,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIXXIIYZZYII",
+    "real": -0.018598984535935784,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIYYIIXZZXII",
+    "real": -0.018598984535935784,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIXXIIXZZXII",
+    "real": -0.018598984535935784,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZZZYIIYZZYII",
+    "real": -0.012260407083206649,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZZZXIIYZZYII",
+    "real": -0.012260407083206649,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZZZYIIXZZXII",
+    "real": -0.012260407083206649,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZZZXIIXZZXII",
+    "real": -0.012260407083206649,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIZIIIYZZYII",
+    "real": 0.03277021514778634,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIZIIIXZZXII",
+    "real": 0.03277021514778634,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZZYIIIYZZYII",
+    "real": 0.0251638785493899,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZZXIIIYZZYII",
+    "real": 0.0251638785493899,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZZYIIIXZZXII",
+    "real": 0.0251638785493899,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZZXIIIXZZXII",
+    "real": 0.0251638785493899,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIZIIIIYZZYII",
+    "real": 0.014080710412077852,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIZIIIIXZZXII",
+    "real": 0.014080710412077852,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZYIIIIYZZYII",
+    "real": 0.02486294872625256,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZXIIIIYZZYII",
+    "real": 0.02486294872625256,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZYIIIIXZZXII",
+    "real": 0.02486294872625256,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZXIIIIXZZXII",
+    "real": 0.02486294872625256,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIZIIIIIYZZYII",
+    "real": 0.03248431543892932,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIZIIIIIXZZXII",
+    "real": 0.03248431543892932,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IZIIIIIIYZZYII",
+    "real": 0.011403414849903593,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IZIIIIIIXZZXII",
+    "real": 0.011403414849903593,
+    "imag": 0.0
+  },
+  {
+    "pauli": "ZIIIIIIIYZZYII",
+    "real": 0.0037542430268463385,
+    "imag": 0.0
+  },
+  {
+    "pauli": "ZIIIIIIIXZZXII",
+    "real": 0.0037542430268463385,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIYZZYYZZZYII",
+    "real": -0.00295506243217378,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIXZZXYZZZYII",
+    "real": -0.00295506243217378,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIYZZYXZZZXII",
+    "real": -0.00295506243217378,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIXZZXXZZZXII",
+    "real": -0.00295506243217378,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZZZZYYZZZYII",
+    "real": 0.003103712360307309,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZZZZXYZZZYII",
+    "real": 0.003103712360307309,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZZZZYXZZZXII",
+    "real": 0.003103712360307309,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZZZZXXZZZXII",
+    "real": 0.003103712360307309,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIYZYIYZZZYII",
+    "real": -0.021764326372294647,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIXZXIYZZZYII",
+    "real": -0.021764326372294647,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIYZYIXZZZXII",
+    "real": -0.021764326372294647,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIXZXIXZZZXII",
+    "real": -0.021764326372294647,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZZZYIYZZZYII",
+    "real": 0.0006164498944549497,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZZZXIYZZZYII",
+    "real": 0.0006164498944549497,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZZZYIXZZZXII",
+    "real": 0.0006164498944549497,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZZZXIXZZZXII",
+    "real": 0.0006164498944549497,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIYYIIYZZZYII",
+    "real": -0.00046341791562223335,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIXXIIYZZZYII",
+    "real": -0.00046341791562223335,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIYYIIXZZZXII",
+    "real": -0.00046341791562223335,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIXXIIXZZZXII",
+    "real": -0.00046341791562223335,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZZYIIYZZZYII",
+    "real": 0.020321066581701682,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZZXIIYZZZYII",
+    "real": 0.020321066581701682,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZZYIIXZZZXII",
+    "real": 0.020321066581701682,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZZXIIXZZZXII",
+    "real": 0.020321066581701682,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZYIIIYZZZYII",
+    "real": 0.008329997703740226,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZXIIIYZZZYII",
+    "real": 0.008329997703740226,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZYIIIXZZZXII",
+    "real": 0.008329997703740226,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZXIIIXZZZXII",
+    "real": 0.008329997703740226,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YYIIIIIYZZZYII",
+    "real": 0.015258603251403494,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XXIIIIIYZZZYII",
+    "real": 0.015258603251403494,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YYIIIIIXZZZXII",
+    "real": 0.015258603251403494,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XXIIIIIXZZZXII",
+    "real": 0.015258603251403494,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIIZZIII",
+    "real": 0.15682298719124468,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIZIZIII",
+    "real": 0.13857591584280565,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIZIIZIII",
+    "real": 0.1125391176198865,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIZIIIZIII",
+    "real": 0.21539788493252657,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIYYIIIZIII",
+    "real": 0.0012993624103968264,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIXXIIIZIII",
+    "real": 0.0012993624103968264,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIYZYIIIZIII",
+    "real": 0.0018606424791545466,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIXZXIIIZIII",
+    "real": 0.0018606424791545466,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZZZZYIIIZIII",
+    "real": -0.0003205314374645399,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZZZZXIIIZIII",
+    "real": -0.0003205314374645399,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIZIIIIZIII",
+    "real": 0.16784479101720068,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIYYIIIIZIII",
+    "real": -0.0025826956305740646,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIXXIIIIZIII",
+    "real": -0.0025826956305740646,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZZZYIIIIZIII",
+    "real": -0.024432793229010322,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZZZXIIIIZIII",
+    "real": -0.024432793229010322,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIZIIIIIZIII",
+    "real": 0.1526678022832331,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZZYIIIIIZIII",
+    "real": 0.014080710412077852,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZZXIIIIIZIII",
+    "real": 0.014080710412077852,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIZIIIIIIZIII",
+    "real": 0.1662180847401612,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZYIIIIIIZIII",
+    "real": 0.02454142306994485,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZXIIIIIIZIII",
+    "real": 0.02454142306994485,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIZIIIIIIIZIII",
+    "real": 0.16489107695276717,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IZIIIIIIIIZIII",
+    "real": 0.1499696183301554,
+    "imag": 0.0
+  },
+  {
+    "pauli": "ZIIIIIIIIIZIII",
+    "real": 0.1528140471564614,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIYZIYIII",
+    "real": 0.03897479901706857,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIXZIXIII",
+    "real": 0.03897479901706857,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIYYIIIIIYYIII",
+    "real": 0.008068089761522486,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIXXIIIIIYYIII",
+    "real": 0.008068089761522486,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIYYIIIIIXXIII",
+    "real": 0.008068089761522486,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIXXIIIIIXXIII",
+    "real": 0.008068089761522486,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZYIIIIIIYYIII",
+    "real": -0.005621314154537717,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZXIIIIIIYYIII",
+    "real": -0.005621314154537717,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZYIIIIIIXXIII",
+    "real": -0.005621314154537717,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZXIIIIIIXXIII",
+    "real": -0.005621314154537717,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIYIZYIII",
+    "real": 0.018490875954134012,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIXIZXIII",
+    "real": 0.018490875954134012,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIYZZYIYZYIII",
+    "real": 0.0013720239325395174,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIXZZXIYZYIII",
+    "real": 0.0013720239325395174,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIYZZYIXZXIII",
+    "real": 0.0013720239325395174,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIXZZXIXZXIII",
+    "real": 0.0013720239325395174,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZZZZYIYZYIII",
+    "real": -0.0013178778114851465,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZZZZXIYZYIII",
+    "real": -0.0013178778114851465,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZZZZYIXZXIII",
+    "real": -0.0013178778114851465,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZZZZXIXZXIII",
+    "real": -0.0013178778114851465,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIYZYIIYZYIII",
+    "real": -0.0014986943864309,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIXZXIIYZYIII",
+    "real": -0.0014986943864309,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIYZYIIXZXIII",
+    "real": -0.0014986943864309,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIXZXIIXZXIII",
+    "real": -0.0014986943864309,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZZZYIIYZYIII",
+    "real": -0.008832432015904034,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZZZXIIYZYIII",
+    "real": -0.008832432015904034,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZZZYIIXZXIII",
+    "real": -0.008832432015904034,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZZZXIIXZXIII",
+    "real": -0.008832432015904034,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIYYIIIYZYIII",
+    "real": 0.004379179388177146,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIXXIIIYZYIII",
+    "real": 0.004379179388177146,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIYYIIIXZXIII",
+    "real": 0.004379179388177146,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIXXIIIXZXIII",
+    "real": 0.004379179388177146,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZZYIIIYZYIII",
+    "real": 0.008329997703740226,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZZXIIIYZYIII",
+    "real": 0.008329997703740226,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZZYIIIXZXIII",
+    "real": 0.008329997703740226,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZZXIIIXZXIII",
+    "real": 0.008329997703740226,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZYIIIIYZYIII",
+    "real": 0.011393702487349746,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZXIIIIYZYIII",
+    "real": 0.011393702487349746,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZYIIIIXZXIII",
+    "real": 0.011393702487349746,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZXIIIIXZXIII",
+    "real": 0.011393702487349746,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YYIIIIIIYZYIII",
+    "real": 0.007912243548442109,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XXIIIIIIYZYIII",
+    "real": 0.007912243548442109,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YYIIIIIIXZXIII",
+    "real": 0.007912243548442109,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XXIIIIIIXZXIII",
+    "real": 0.007912243548442109,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIZYZZYIII",
+    "real": 0.0860381880878965,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIZXZZXIII",
+    "real": 0.0860381880878965,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIYYYZZYIII",
+    "real": 0.0019159661524262273,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIXXYZZYIII",
+    "real": 0.0019159661524262273,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIYYXZZXIII",
+    "real": 0.0019159661524262273,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIXXXZZXIII",
+    "real": 0.0019159661524262273,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIYZYYZZYIII",
+    "real": -0.00018270973505887802,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIXZXYZZYIII",
+    "real": -0.00018270973505887802,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIYZYXZZXIII",
+    "real": -0.00018270973505887802,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIXZXXZZXIII",
+    "real": -0.00018270973505887802,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZZZZYYZZYIII",
+    "real": 0.002022759860943893,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZZZZXYZZYIII",
+    "real": 0.002022759860943893,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZZZZYXZZXIII",
+    "real": 0.002022759860943893,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZZZZXXZZXIII",
+    "real": 0.002022759860943893,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIZIYZZYIII",
+    "real": 0.02667158616490418,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIZIXZZXIII",
+    "real": 0.02667158616490418,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIYYIYZZYIII",
+    "real": -0.02473153829159032,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIXXIYZZYIII",
+    "real": -0.02473153829159032,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIYYIXZZXIII",
+    "real": -0.02473153829159032,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIXXIXZZXIII",
+    "real": -0.02473153829159032,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZZZYIYZZYIII",
+    "real": -0.01784394373323658,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZZZXIYZZYIII",
+    "real": -0.01784394373323658,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZZZYIXZZXIII",
+    "real": -0.01784394373323658,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZZZXIXZZXIII",
+    "real": -0.01784394373323658,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIZIIYZZYIII",
+    "real": 0.03217621636282973,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIZIIXZZXIII",
+    "real": 0.03217621636282973,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZZYIIYZZYIII",
+    "real": 0.02486294872625256,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZZXIIYZZYIII",
+    "real": 0.02486294872625256,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZZYIIXZZXIII",
+    "real": 0.02486294872625256,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZZXIIXZZXIII",
+    "real": 0.02486294872625256,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIZIIIYZZYIII",
+    "real": 0.02454142306994485,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIZIIIXZZXIII",
+    "real": 0.02454142306994485,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZYIIIYZZYIII",
+    "real": 0.040274929536574904,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZXIIIYZZYIII",
+    "real": 0.040274929536574904,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZYIIIXZZXIII",
+    "real": 0.040274929536574904,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZXIIIXZZXIII",
+    "real": 0.040274929536574904,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIZIIIIYZZYIII",
+    "real": 0.044596113171606284,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIZIIIIXZZXIII",
+    "real": 0.044596113171606284,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IZIIIIIYZZYIII",
+    "real": 0.010578632405691905,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IZIIIIIXZZXIII",
+    "real": 0.010578632405691905,
+    "imag": 0.0
+  },
+  {
+    "pauli": "ZIIIIIIYZZYIII",
+    "real": 0.008878997831006413,
+    "imag": 0.0
+  },
+  {
+    "pauli": "ZIIIIIIXZZXIII",
+    "real": 0.008878997831006413,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIIZZIIII",
+    "real": 0.14743492508008663,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIZIZIIII",
+    "real": 0.14170387997145004,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIZIIZIIII",
+    "real": 0.278836078383892,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIYYIIZIIII",
+    "real": 0.0028563396589178355,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIXXIIZIIII",
+    "real": 0.0028563396589178355,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIYZYIIZIIII",
+    "real": 0.0016110706255135184,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIXZXIIZIIII",
+    "real": 0.0016110706255135184,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZZZZYIIZIIII",
+    "real": 0.0013076899846389942,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZZZZXIIZIIII",
+    "real": 0.0013076899846389942,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIZIIIZIIII",
+    "real": 0.18480051268048758,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIYYIIIZIIII",
+    "real": -0.02202076010010797,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIXXIIIZIIII",
+    "real": -0.02202076010010797,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZZZYIIIZIIII",
+    "real": -0.03857180576302896,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZZZXIIIZIIII",
+    "real": -0.03857180576302896,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIZIIIIZIIII",
+    "real": 0.17551650195838583,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZZYIIIIZIIII",
+    "real": 0.03248431543892932,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZZXIIIIZIIII",
+    "real": 0.03248431543892932,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIZIIIIIZIIII",
+    "real": 0.16489107695276717,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZYIIIIIZIIII",
+    "real": 0.044596113171606284,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZXIIIIIZIIII",
+    "real": 0.044596113171606284,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIZIIIIIIZIIII",
+    "real": 0.22003977334376137,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IZIIIIIIIZIIII",
+    "real": 0.15691565382636544,
+    "imag": 0.0
+  },
+  {
+    "pauli": "ZIIIIIIIIZIIII",
+    "real": 0.14656952822486966,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIYZZZYIYYIIII",
+    "real": 0.0033105206654695245,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIXZZZXIYYIIII",
+    "real": 0.0033105206654695245,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIYZZZYIXXIIII",
+    "real": 0.0033105206654695245,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIXZZZXIXXIIII",
+    "real": 0.0033105206654695245,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIYZZYIIYYIIII",
+    "real": 0.012729815927837505,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIXZZXIIYYIIII",
+    "real": 0.012729815927837505,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIYZZYIIXXIIII",
+    "real": 0.012729815927837505,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIXZZXIIXXIIII",
+    "real": 0.012729815927837505,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIYZYIIIYYIIII",
+    "real": 0.00015788639726950848,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIXZXIIIYYIIII",
+    "real": 0.00015788639726950848,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIYZYIIIXXIIII",
+    "real": 0.00015788639726950848,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIXZXIIIXXIIII",
+    "real": 0.00015788639726950848,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYYIIIIIYYIIII",
+    "real": 0.009480728746278805,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXXIIIIIYYIIII",
+    "real": 0.009480728746278805,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYYIIIIIXXIIII",
+    "real": 0.009480728746278805,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXXIIIIIXXIIII",
+    "real": 0.009480728746278805,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIYYIIIYZYIIII",
+    "real": -0.005621314154537717,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIXXIIIYZYIIII",
+    "real": -0.005621314154537717,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIYYIIIXZXIIII",
+    "real": -0.005621314154537717,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIXXIIIXZXIIII",
+    "real": -0.005621314154537717,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZYIIIIYZYIIII",
+    "real": 0.00486564825341962,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZXIIIIYZYIIII",
+    "real": 0.00486564825341962,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZYIIIIXZXIIII",
+    "real": 0.00486564825341962,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZXIIIIXZXIIII",
+    "real": 0.00486564825341962,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIIZZIIIII",
+    "real": 0.12300524479026637,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIZIZIIIII",
+    "real": 0.22109389006611574,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIYYIZIIIII",
+    "real": 0.001837102066084167,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIXXIZIIIII",
+    "real": 0.001837102066084167,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIYZYIZIIIII",
+    "real": 0.00498011963232515,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIXZXIZIIIII",
+    "real": 0.00498011963232515,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZZZZYIZIIIII",
+    "real": -0.002720228384967047,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZZZZXIZIIIII",
+    "real": -0.002720228384967047,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIZIIZIIIII",
+    "real": 0.1640852521079187,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIYYIIZIIIII",
+    "real": 0.00956582384494495,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIXXIIZIIIII",
+    "real": 0.00956582384494495,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZZZYIIZIIIII",
+    "real": -0.028091883012437136,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZZZXIIZIIIII",
+    "real": -0.028091883012437136,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIZIIIZIIIII",
+    "real": 0.14591653538523894,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZZYIIIZIIIII",
+    "real": 0.011403414849903593,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZZXIIIZIIIII",
+    "real": 0.011403414849903593,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIZIIIIZIIIII",
+    "real": 0.1499696183301554,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZYIIIIZIIIII",
+    "real": 0.010578632405691905,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZXIIIIZIIIII",
+    "real": 0.010578632405691905,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIZIIIIIZIIIII",
+    "real": 0.15691565382636544,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IZIIIIIIZIIIII",
+    "real": 0.16072774133137663,
+    "imag": 0.0
+  },
+  {
+    "pauli": "ZIIIIIIIZIIIII",
+    "real": 0.1463659401987428,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIYZZYYYIIIII",
+    "real": -0.0018866463052555572,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIXZZXYYIIIII",
+    "real": -0.0018866463052555572,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIYZZYXXIIIII",
+    "real": -0.0018866463052555572,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIXZZXXXIIIII",
+    "real": -0.0018866463052555572,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZZZZYYYIIIII",
+    "real": 0.0018968163612162125,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZZZZXYYIIIII",
+    "real": 0.0018968163612162125,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZZZZYXXIIIII",
+    "real": 0.0018968163612162125,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZZZZXXXIIIII",
+    "real": 0.0018968163612162125,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIYZYIYYIIIII",
+    "real": -0.01966516346587657,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIXZXIYYIIIII",
+    "real": -0.01966516346587657,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIYZYIXXIIIII",
+    "real": -0.01966516346587657,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIXZXIXXIIIII",
+    "real": -0.01966516346587657,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZZZYIYYIIIII",
+    "real": -0.006458047509937807,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZZZXIYYIIIII",
+    "real": -0.006458047509937807,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZZZYIXXIIIII",
+    "real": -0.006458047509937807,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZZZXIXXIIIII",
+    "real": -0.006458047509937807,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIYYIIYYIIIII",
+    "real": 0.010335587428103142,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIXXIIYYIIIII",
+    "real": 0.010335587428103142,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIYYIIXXIIIII",
+    "real": 0.010335587428103142,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIXXIIXXIIIII",
+    "real": 0.010335587428103142,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZZYIIYYIIIII",
+    "real": 0.015258603251403494,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZZXIIYYIIIII",
+    "real": 0.015258603251403494,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZZYIIXXIIIII",
+    "real": 0.015258603251403494,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZZXIIXXIIIII",
+    "real": 0.015258603251403494,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZYIIIYYIIIII",
+    "real": 0.007912243548442109,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZXIIIYYIIIII",
+    "real": 0.007912243548442109,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZYIIIXXIIIII",
+    "real": 0.007912243548442109,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZXIIIXXIIIII",
+    "real": 0.007912243548442109,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YYIIIIIYYIIIII",
+    "real": 0.023360695408476434,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XXIIIIIYYIIIII",
+    "real": 0.023360695408476434,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YYIIIIIXXIIIII",
+    "real": 0.023360695408476434,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XXIIIIIXXIIIII",
+    "real": 0.023360695408476434,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIIZZIIIIII",
+    "real": 0.19494694885306552,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIYYZIIIIII",
+    "real": 0.0016125217194547191,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIXXZIIIIII",
+    "real": 0.0016125217194547191,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIYZYZIIIIII",
+    "real": 0.0014299643488501295,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIXZXZIIIIII",
+    "real": 0.0014299643488501295,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZZZZYZIIIIII",
+    "real": 0.00028016680860458096,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZZZZXZIIIIII",
+    "real": 0.00028016680860458096,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIZIZIIIIII",
+    "real": 0.15259688993125484,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIYYIZIIIIII",
+    "real": 0.0031668245908064293,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIXXIZIIIIII",
+    "real": 0.0031668245908064293,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZZZYIZIIIIII",
+    "real": -0.013127555791859154,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZZZXIZIIIIII",
+    "real": -0.013127555791859154,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIZIIZIIIIII",
+    "real": 0.1439858213617513,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZZYIIZIIIIII",
+    "real": 0.0037542430268463385,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZZXIIZIIIIII",
+    "real": 0.0037542430268463385,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIZIIIZIIIIII",
+    "real": 0.1528140471564614,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZYIIIZIIIIII",
+    "real": 0.008878997831006413,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZXIIIZIIIIII",
+    "real": 0.008878997831006413,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIZIIIIZIIIIII",
+    "real": 0.14656952822486966,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IZIIIIIZIIIIII",
+    "real": 0.1463659401987428,
+    "imag": 0.0
+  },
+  {
+    "pauli": "ZIIIIIIZIIIIII",
+    "real": 0.1525340995951411,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIIZZIIIIIII",
+    "real": 0.23349166851715636,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIYYZIIIIIII",
+    "real": -0.034172666456981644,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIXXZIIIIIII",
+    "real": -0.034172666456981644,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZZZYZIIIIIII",
+    "real": -0.06697196831207881,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZZZXZIIIIIII",
+    "real": -0.06697196831207881,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIZIZIIIIIII",
+    "real": 0.22913600197139308,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZZYIZIIIIIII",
+    "real": 0.06017439260441918,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZZXIZIIIIIII",
+    "real": 0.06017439260441918,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIZIIZIIIIIII",
+    "real": 0.21192254872734193,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZYIIZIIIIIII",
+    "real": 0.08230700691203417,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZXIIZIIIIIII",
+    "real": 0.08230700691203417,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIZIIIZIIIIIII",
+    "real": 0.27233228157266764,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IZIIIIZIIIIIII",
+    "real": 0.21306058424544375,
+    "imag": 0.0
+  },
+  {
+    "pauli": "ZIIIIIZIIIIIII",
+    "real": 0.19093150141098664,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIYIYIIIIIII",
+    "real": 0.0019340682444435615,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIXIXIIIIIII",
+    "real": 0.0019340682444435615,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZZZIYIIIIIII",
+    "real": -0.0023937518781643767,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZZZIXIIIIIII",
+    "real": -0.0023937518781643767,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIZYYIIIIIII",
+    "real": 0.006412746623629951,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIZXXIIIIIII",
+    "real": 0.006412746623629951,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZZYYYIIIIIII",
+    "real": 0.00628074391630038,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZZXYYIIIIIII",
+    "real": 0.005744584942122136,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZZXXYIIIIIII",
+    "real": 0.0005361589741782426,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZZYYXIIIIIII",
+    "real": 0.0005361589741782426,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZZYXXIIIIIII",
+    "real": 0.005744584942122136,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZZXXXIIIIIII",
+    "real": 0.00628074391630038,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIZIYYIIIIIII",
+    "real": 0.006378605463634062,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIZIXXIIIIIII",
+    "real": 0.006378605463634062,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZYIYYIIIIIII",
+    "real": 0.00701894024346155,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZXIYYIIIIIII",
+    "real": 0.005137480807002941,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZXIXYIIIIIII",
+    "real": 0.0018814594364586102,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZYIYXIIIIIII",
+    "real": 0.0018814594364586102,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZYIXXIIIIIII",
+    "real": 0.005137480807002941,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZXIXXIIIIIII",
+    "real": 0.00701894024346155,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIZIIYYIIIIIII",
+    "real": 0.010756502343190004,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIZIIXXIIIIIII",
+    "real": 0.010756502343190004,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IZIIIYYIIIIIII",
+    "real": 0.005075689805142556,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IZIIIXXIIIIIII",
+    "real": 0.005075689805142556,
+    "imag": 0.0
+  },
+  {
+    "pauli": "ZIIIIYYIIIIIII",
+    "real": 0.00492800128294725,
+    "imag": 0.0
+  },
+  {
+    "pauli": "ZIIIIXXIIIIIII",
+    "real": 0.00492800128294725,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZZIZYIIIIIII",
+    "real": 0.004439317598574879,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZZIZXIIIIIII",
+    "real": 0.004439317598574879,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIZYZYIIIIIII",
+    "real": 0.003633222545593187,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIZXZXIIIIIII",
+    "real": 0.003633222545593187,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZYYZYIIIIIII",
+    "real": 0.00174293537262353,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZXYZYIIIIIII",
+    "real": 0.002772352697114902,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZXXZYIIIIIII",
+    "real": -0.0010294173244913714,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZYYZXIIIIIII",
+    "real": -0.0010294173244913714,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZYXZXIIIIIII",
+    "real": 0.002772352697114902,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZXXZXIIIIIII",
+    "real": 0.00174293537262353,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIZIYZYIIIIIII",
+    "real": 0.005807025440403028,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIZIXZXIIIIIII",
+    "real": 0.005807025440403028,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IZIIYZYIIIIIII",
+    "real": 0.006798476879455568,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IZIIXZXIIIIIII",
+    "real": 0.006798476879455568,
+    "imag": 0.0
+  },
+  {
+    "pauli": "ZIIIYZYIIIIIII",
+    "real": 0.004533676709157437,
+    "imag": 0.0
+  },
+  {
+    "pauli": "ZIIIXZXIIIIIII",
+    "real": 0.004533676709157437,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZIZZYIIIIIII",
+    "real": 0.0010514924950749773,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZIZZXIIIIIII",
+    "real": 0.0010514924950749773,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YYIYZZYIIIIIII",
+    "real": -0.0005687684937704107,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XXIYZZYIIIIIII",
+    "real": -0.003909406166199449,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YXIXZZYIIIIIII",
+    "real": 0.0033406376724290383,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XYIYZZXIIIIIII",
+    "real": 0.0033406376724290383,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YYIXZZXIIIIIII",
+    "real": -0.003909406166199449,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XXIXZZXIIIIIII",
+    "real": -0.0005687684937704107,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYIZZZYIIIIIII",
+    "real": 0.004618210650108518,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXIZZZXIIIIIII",
+    "real": 0.004618210650108518,
+    "imag": 0.0
+  },
+  {
+    "pauli": "ZYZZZZYIIIIIII",
+    "real": 0.0021769831698207937,
+    "imag": 0.0
+  },
+  {
+    "pauli": "ZXZZZZXIIIIIII",
+    "real": 0.0021769831698207937,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIIZZIIIIIIII",
+    "real": 0.13165139146660493,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZZYZIIIIIIII",
+    "real": 0.01804068081788962,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZZXZIIIIIIII",
+    "real": 0.01804068081788962,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIZIZIIIIIIII",
+    "real": 0.1324772585631194,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZYIZIIIIIIII",
+    "real": 0.020008463890592836,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZXIZIIIIIIII",
+    "real": 0.020008463890592836,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIZIIZIIIIIIII",
+    "real": 0.1501399194991639,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IZIIIZIIIIIIII",
+    "real": 0.136535146326075,
+    "imag": 0.0
+  },
+  {
+    "pauli": "ZIIIIZIIIIIIII",
+    "real": 0.1382458728159249,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZZIYIIIIIIII",
+    "real": -0.03391616159746358,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZZIXIIIIIIII",
+    "real": -0.03391616159746358,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIZYYIIIIIIII",
+    "real": -0.003055016112754887,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIZXXIIIIIIII",
+    "real": -0.003055016112754887,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZYYYIIIIIIII",
+    "real": -0.013345930029629263,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZXYYIIIIIIII",
+    "real": -0.002967211919295669,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZXXYIIIIIIII",
+    "real": -0.010378718110333595,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZYYXIIIIIIII",
+    "real": -0.010378718110333595,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZYXXIIIIIIII",
+    "real": -0.002967211919295669,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZXXXIIIIIIII",
+    "real": -0.013345930029629263,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIZIYYIIIIIIII",
+    "real": -0.00755002863880176,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIZIXXIIIIIIII",
+    "real": -0.00755002863880176,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IZIIYYIIIIIIII",
+    "real": -0.0026945832382617003,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IZIIXXIIIIIIII",
+    "real": -0.0026945832382617003,
+    "imag": 0.0
+  },
+  {
+    "pauli": "ZIIIYYIIIIIIII",
+    "real": 0.0037832744852613794,
+    "imag": 0.0
+  },
+  {
+    "pauli": "ZIIIXXIIIIIIII",
+    "real": 0.0037832744852613794,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZIZYIIIIIIII",
+    "real": -0.02593148761544122,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZIZXIIIIIIII",
+    "real": -0.02593148761544122,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YYIYZYIIIIIIII",
+    "real": -0.010832731449972535,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XXIYZYIIIIIIII",
+    "real": -0.0018212197326399893,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YXIXZYIIIIIIII",
+    "real": -0.009011511717332546,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XYIYZXIIIIIIII",
+    "real": -0.009011511717332546,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YYIXZXIIIIIIII",
+    "real": -0.0018212197326399893,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XXIXZXIIIIIIII",
+    "real": -0.010832731449972535,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYIZZYIIIIIIII",
+    "real": -0.025841989835191453,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXIZZXIIIIIIII",
+    "real": -0.025841989835191453,
+    "imag": 0.0
+  },
+  {
+    "pauli": "ZYZZZYIIIIIIII",
+    "real": -0.019585603301796962,
+    "imag": 0.0
+  },
+  {
+    "pauli": "ZXZZZXIIIIIIII",
+    "real": -0.019585603301796962,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIIZZIIIIIIIII",
+    "real": 0.1395570892597259,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZZYZIIIIIIIII",
+    "real": 0.031712798447207494,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZZXZIIIIIIIII",
+    "real": 0.031712798447207494,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIZIZIIIIIIIII",
+    "real": 0.16016905545301224,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IZIIZIIIIIIIII",
+    "real": 0.12075265683584904,
+    "imag": 0.0
+  },
+  {
+    "pauli": "ZIIIZIIIIIIIII",
+    "real": 0.12366475478004962,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYZIYIIIIIIIII",
+    "real": 0.018459889800254998,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXZIXIIIIIIIII",
+    "real": 0.018459889800254998,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YYIYYIIIIIIIII",
+    "real": 0.0020055897243629133,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XXIYYIIIIIIIII",
+    "real": -0.014527361298149424,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YXIXYIIIIIIIII",
+    "real": 0.01653295102251234,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XYIYXIIIIIIIII",
+    "real": 0.01653295102251234,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YYIXXIIIIIIIII",
+    "real": -0.014527361298149424,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XXIXXIIIIIIIII",
+    "real": 0.0020055897243629133,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IYIZYIIIIIIIII",
+    "real": 0.032642201836198835,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IXIZXIIIIIIIII",
+    "real": 0.032642201836198835,
+    "imag": 0.0
+  },
+  {
+    "pauli": "ZYZZYIIIIIIIII",
+    "real": 0.019012846278249833,
+    "imag": 0.0
+  },
+  {
+    "pauli": "ZXZZXIIIIIIIII",
+    "real": 0.019012846278249833,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IIZZIIIIIIIIII",
+    "real": 0.15682298719124468,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IZIZIIIIIIIIII",
+    "real": 0.13857591584280565,
+    "imag": 0.0
+  },
+  {
+    "pauli": "ZIIZIIIIIIIIII",
+    "real": 0.1125391176198865,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YZIYIIIIIIIIII",
+    "real": 0.03897479901706857,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XZIXIIIIIIIIII",
+    "real": 0.03897479901706857,
+    "imag": 0.0
+  },
+  {
+    "pauli": "YIZYIIIIIIIIII",
+    "real": 0.018490875954134012,
+    "imag": 0.0
+  },
+  {
+    "pauli": "XIZXIIIIIIIIII",
+    "real": 0.018490875954134012,
+    "imag": 0.0
+  },
+  {
+    "pauli": "IZZIIIIIIIIIII",
+    "real": 0.14743492508008663,
+    "imag": 0.0
+  },
+  {
+    "pauli": "ZIZIIIIIIIIIII",
+    "real": 0.14170387997145004,
+    "imag": 0.0
+  },
+  {
+    "pauli": "ZZIIIIIIIIIIII",
+    "real": 0.12300524479026637,
+    "imag": 0.0
+  }
+]
